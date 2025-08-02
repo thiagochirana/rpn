@@ -16,3 +16,12 @@ Uma calculadora de expressões matemáticas usando notação pós-fixada (Revers
 
 ```bash
 docker build -t rpn .
+```
+
+### E depois é só usar
+
+```
+docker run -it --rm rpn
+```
+
+tenta aí! e me diz...
