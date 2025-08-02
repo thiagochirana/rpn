@@ -3,6 +3,7 @@ GEM
   specs:
     colorize (1.1.0)
     minitest (5.25.5)
+    rake (13.3.0)
 
 PLATFORMS
   ruby
@@ -11,6 +12,7 @@ PLATFORMS
 DEPENDENCIES
   colorize
   minitest
+  rake
 
 RUBY VERSION
    ruby 3.4.3p32

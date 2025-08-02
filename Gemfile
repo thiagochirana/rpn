@@ -6,6 +6,7 @@ ruby '3.4.3'
 
 # gem "rails"
 gem 'colorize'
+gem 'rake'
 
 group :test do
   gem 'minitest'
